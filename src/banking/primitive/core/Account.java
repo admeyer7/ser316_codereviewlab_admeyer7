@@ -1,5 +1,12 @@
 package banking.primitive.core;
 
+/*
+File:	Account.java
+Author:	kevinagary
+Date:	04/10/2017
+
+Description: An abstract account to help implement Checking.java and Savings.java
+*/
 
 public abstract class Account implements java.io.Serializable {
     private static final long serialVersionUID = 1L;
